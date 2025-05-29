@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
     private void findViews() {
         ///////////////
         resultText = findViewById(R.id.text_view_result);
-        /** resultText.setText("Woohoo, I can update my Textview using programming code - I'm a real developer!");*/
+        /** resultText.setText("Woohoo, I can update my Textview using programming code - I'm a real developer!"); */
         ///////////////
 
         maleButton = findViewById(R.id.radio_button_male);
